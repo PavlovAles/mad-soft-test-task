@@ -1,0 +1,11 @@
+.header {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-color: var(--ant-color-primary-bg);
+
+  &__content {
+    width: 100%;
+    max-width: 1280px;
+  }
+}
